@@ -16,5 +16,9 @@ It can also make the work of hackers easier
 And many other things you saw soon
 
 ## Be patient my friend
+### Do you want to know how to install it?
+    pip install -r need-jarvis.txt
+    python3 jarvis.py
+## For Windows You Can Download .EXE File In Releases
 
 # Will be released soon
