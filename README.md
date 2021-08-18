@@ -16,6 +16,9 @@ It can also make the work of hackers easier
 And many other things you saw soon
 
 ## Be patient my friend
+
+Rest assured it will be available soon
+
 ### Do you want to know how to install it?
     pip install -r need-jarvis.txt
     python3 jarvis.py
