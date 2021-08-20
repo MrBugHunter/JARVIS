@@ -1,6 +1,9 @@
 # JARVIS
 Jarvis is a great assistant for everyone
 
+![imgs_touch](https://user-images.githubusercontent.com/88962566/130225903-8666d20d-f220-43f7-aa0c-d8f88123ffaf.jpg)
+
+
 ## This voice assistant has the ability to do many things
 
 Ability to make decisions
